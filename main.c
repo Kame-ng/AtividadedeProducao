@@ -1,7 +1,10 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-/*Este código é capaz de fazer diversas operações matemáticas. Dentre elas estão a adição, multiplicação, subtração, expoente e raiz quadrada. Para que o usuário faça essas operações ele deve apenas digitar o número 1 ou 2. Assim o resultado da opração será imprimido na tela de console.*/
+/*Este código é capaz de fazer diversas operações matemáticas. 
+Dentre elas estão a adição, multiplicação, subtração, expoente e raiz quadrada. 
+Para que o usuário faça essas operações ele deve apenas digitar o número 1 ou 2. 
+Assim o resultado da opração será imprimido na tela de console.*/
 int main() {
   puts("Kâmé do Nascimento Griebeler. Analise e Desenvolvimento de Sistemas. "
        "UniLaSalle. 202212229\n");
